@@ -8,4 +8,6 @@
     <string name="error_ok_button_text">ok</string>
     <string name="network_error_title">Network Error</string>
     <string name="network_error_message">Network is unavailable!</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="no_daily_forecast_data">There is not data to display.</string>
 </resources>
