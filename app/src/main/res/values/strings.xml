@@ -10,4 +10,6 @@
     <string name="network_error_message">Network is unavailable!</string>
     <string name="title_activity_daily_forecast">DailyForecastActivity</string>
     <string name="no_daily_forecast_data">There is not data to display.</string>
+    <string name="current_location_text">--</string>
+
 </resources>

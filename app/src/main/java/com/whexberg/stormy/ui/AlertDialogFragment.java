@@ -1,4 +1,4 @@
-package com.whexberg.stormy.UI;
+package com.whexberg.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
